@@ -1,0 +1,6 @@
+@OderApi_HostAddress = http://localhost:5121
+
+GET {{OderApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
